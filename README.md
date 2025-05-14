@@ -1,5 +1,6 @@
 # Love-Calculator
 A fun Python project to calculate your "love compatibility"!
+
 Who says coding can’t be romantic?
 
 I just built a Love Calculator using Python — a light-hearted console app that adds a little twist of fun to programming.
